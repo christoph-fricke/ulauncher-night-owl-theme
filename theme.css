@@ -17,12 +17,12 @@
 /**
  * Result items
  */
-@define-color item_name #22da6e;
-@define-color item_text #fff;
+@define-color item_name #fff;
+@define-color item_text #637777;
 @define-color item_box_selected #1d3b53;
-@define-color item_text_selected @item_text;
-@define-color item_name_selected #21c7a8;
-@define-color item_shortcut_color #637777;
+@define-color item_text_selected #fff;
+@define-color item_name_selected #82aaff;
+@define-color item_shortcut_color @item_text;
 @define-color item_shortcut_shadow darker(@bg_color);
 @define-color item_shortcut_color_sel @item_shortcut_color;
 @define-color item_shortcut_shadow_sel darker(@item_box_selected);
