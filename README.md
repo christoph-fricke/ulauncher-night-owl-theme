@@ -2,6 +2,8 @@
 
 > This is a port of the amazing [Night Owl](https://github.com/sdras/night-owl-vscode-theme) theme by Sarah Drasner.
 
+![Preview for theme used in Ulauncher](assets/preview.png)
+
 ## How to install
 
 1. Clone this Repo into the theme folder located at `~/.config/ulauncher/user-themes`. If `user-themes` does not exists you have to create it.
